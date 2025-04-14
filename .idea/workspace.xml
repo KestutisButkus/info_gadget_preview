@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d377b4d0-091e-4bbd-b5fa-466b822f571e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/info_gadget.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/clear_day.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/cloudy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/cloudy_with_snow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/drizzle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/haze_fog_dust_smoke.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/heavy_rain.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/heavy_snow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/icy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/isolated_scattered_thunderstorms_day.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/isolated_thunderstorms.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/mixed_rain_hail_sleet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/mixed_rain_snow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/mostly_clear_day.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/mostly_cloudy_day.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/not_available.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/screen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/showers_rain.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/showers_snow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/sleet_hail.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/strong_thunderstorms.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/weather_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meteo_lt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/news.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nordpool.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weather.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2vigmaXijGdJduat8JZUcZalHdc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.run.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "E:/Duomenai/Kestys/Desktop/CodeAcademy/PythonProject/SkApsUi_preview",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Duomenai\Kestys\Desktop\CodeAcademy\PythonProject\info_gadget" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-4f4e415b4190-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.26053.29" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d377b4d0-091e-4bbd-b5fa-466b822f571e" name="Changes" comment="" />
+      <created>1744633467905</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1744633467905</updated>
+    </task>
+    <servers />
+  </component>
+</project>
