@@ -1,11 +1,17 @@
-# Apie:
+
+# "Info Gadget"
 
 ![](img/screen.png)
 
+#### Programa atvaizduoja šią informaciją:
 
-Ši programa naudoja `tkinter` biblioteką, kad sukurtų grafinį langą, kuris atvaizduoja orų informaciją, NordPool elektros kainas ir naujienas iš įvairių šaltinių.
+   - Orai: Rodo orų informaciją.
+   - NordPool elektros kainos: Rodo NordPool elektros kainų informaciją.
+   - Naujienos: Rodo naujienas iš skirtingų šaltinių (15min, LRT, Delfi, Verslo žinios) iš news.py.
 
-## Diegimo instrukcijos
+#### Kad sukurtų grafinį langą, ši programa naudoja `tkinter` biblioteką.
+
+### Diegimo instrukcijos
 
 1. Įdiekite reikalingas bibliotekas:
    ```sh
@@ -15,15 +21,8 @@
     location = "city"  # Enter city    
 3. Paleiskite programą:
     ```sh
-   python main.py
-## Naudojimo instrukcijos
-Programa atvaizduoja šią informaciją:
+   python run.py
 
-Orai: Rodo orų informaciją.
-
-NordPool elektros kainos: Rodo NordPool elektros kainų informaciją.
-
-Naujienos: Rodo naujienas iš skirtingų šaltinių (15min, LRT, Delfi, Verslo žinios) iš news.py.
 
 ### Ši programa naudoja šias papildomas bibliotekas:
 
